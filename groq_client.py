@@ -20,7 +20,7 @@ import requests
 import json
 from typing import Optional
 
-DEFAULT_MODEL = "llama-3.3-70b-versatile"  # replace with actual model id
+DEFAULT_MODEL = "llama-3.1-8b-instant"  # replace with actual model id
 
 class GroqClient:
     def __init__(self, api_url: Optional[str]=None, api_key: Optional[str]=None, model: Optional[str]=None):

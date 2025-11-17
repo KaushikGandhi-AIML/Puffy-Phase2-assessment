@@ -7,6 +7,8 @@ from pathlib import Path
 import json
 import re
 import time
+from dotenv import load_dotenv
+load_dotenv()
 
 st.set_page_config(page_title="Puffy Creative Engine — Ad Builder", layout="centered")
 BASE_DIR = Path(__file__).parent
