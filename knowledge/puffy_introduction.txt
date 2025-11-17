@@ -1,0 +1,45 @@
+Puffy — Company Introduction
+
+Puffy is a U.S.-based direct-to-consumer sleep brand that specializes in luxury mattresses, bedding, and bedroom accessories. Founded on the idea of creating products that feel like “sleeping on a cloud,” Puffy blends advanced foam engineering, design, and customer-centric service to deliver a high-end sleep experience.
+
+**Core Mission & Vision**  
+- To develop total bedroom solutions for optimal sleep health across North America. :contentReference[oaicite:0]{index=0}  
+- To provide comfort, quality, and safety in their products, combining craftsmanship with wellness and long-term value. :contentReference[oaicite:1]{index=1}  
+- To support sustainability and community: Puffy runs a Mattress Donation Program, donating gently used or returned mattresses to shelters and reducing waste. :contentReference[oaicite:2]{index=2}  
+
+**Product Range**  
+- **Memory Foams & Hybrid Mattresses**: Puffy offers a variety of mattress models, including premium memory foam designs and hybrid models with contour-adapt coils for greater support and stability. :contentReference[oaicite:3]{index=3}  
+- **Bedding & Accessories**: Beyond mattresses, Puffy also sells luxury bed sheets, body pillows, and blankets — all designed to match the brand’s comfort-first philosophy. :contentReference[oaicite:4]{index=4}  
+- **Quality & Safety**: Puffy mattresses use CertiPUR-US® certified foam, with no fiberglass fire-retardant layers, ensuring safety, low emissions, and high durability. :contentReference[oaicite:5]{index=5}  
+
+**Customer Experience**  
+- Puffy provides a **101-night risk-free trial**, allowing customers to test their product before fully committing. :contentReference[oaicite:6]{index=6}  
+- They back their mattresses with a **lifetime warranty** — a strong signal of confidence in their product’s durability. :contentReference[oaicite:7]{index=7}  
+- The company sells primarily online (DTC), but has expanded through partnerships with brick-and-mortar retailers, making their products accessible both digitally and in physical stores. :contentReference[oaicite:8]{index=8}  
+
+**Certifications & Manufacturing**  
+- Puffy is committed to safety and sustainability: their foams are CertiPUR-US® certified for low emissions, absence of harmful chemicals, and overall environmental responsibility. :contentReference[oaicite:9]{index=9}  
+- They operate manufacturing facilities in the U.S., emphasizing control over quality and supply chain. :contentReference[oaicite:10]{index=10}  
+
+**Community & Social Impact**  
+- Through their **Mattress Donation Program**, Puffy has donated mattresses to children’s shelters and community organizations whenever a customer returns a mattress. :contentReference[oaicite:11]{index=11}  
+- The brand encourages community engagement — customers are invited to share their experiences and even help the company reduce waste through social sharing and donations. :contentReference[oaicite:12]{index=12}  
+
+**Positioning & Reputation**  
+- Puffy is widely recognized in the luxury mattress space, known for its “cloud-like” comfort and premium build quality.  
+- Their core audience includes design-conscious and wellness-oriented buyers who value premium comfort, long-term sleep investment, and elegant bedroom aesthetics.
+
+**Headquarters & Operations**  
+- Puffy is headquartered in California, and their operations span both the U.S. and Canada. :contentReference[oaicite:13]{index=13}  
+- The company has grown rapidly since its founding, scaling to a large e-commerce presence while maintaining operational control. :contentReference[oaicite:14]{index=14}  
+
+---
+
+**Why Include This in the Knowledge Base?**  
+Having this company introduction in your **knowledge folder** helps ground your Claude / GPT-based creative engine:  
+
+- Provides **brand context** (luxury, wellness, design)  
+- Informs **tone** when generating creative ad angles  
+- Helps the system align with Puffy’s mission, values, and product ecosystem  
+- Ensures consistency across ad scripts and concepts
+
